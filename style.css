@@ -1,0 +1,107 @@
+h1 {
+  font-family: 'Roboto', sans-serif;
+  color: rgba(0, 0, 0, 0.611);
+  font-weight: 600;
+  font-size: 40px;
+}
+
+h2 {
+  font-family: 'Roboto', sans-serif;
+  text-decoration: none;
+  color: rgba(26, 148, 15, 0.713);
+  font-weight: bold;
+  font-size: 20px;
+}
+
+p {
+  font-family: 'Gill Sans';
+  text-decoration: none;
+  color: rgba(46, 45, 7, 0.713);
+  font-weight: 100;
+  font-size: 20px;
+}
+
+a:hover {
+  background-color: rgba(204, 201, 151, 0.131);
+  box-shadow: 2px 2px 2px rgb(61, 134, 160);
+}
+
+.btn-green {
+  color: rgba(26, 148, 15, 0.713);
+  font-size: 20px;
+}
+
+.avatar {
+  width: 200px;
+  border-radius: 20px;
+}
+
+a {
+  display: inline-block;
+  font-family: 'Gill Sans';
+  text-decoration: none;
+  color: rgba(0, 153, 255, 0.713);
+  font-size: 20px;
+}
+
+.card {
+  align-content: center;
+  padding-top: 6px;
+  padding-bottom: 24px;
+  border-style: none;
+  border-radius: 10px;
+  box-shadow: 0px 10px 30px rgb(0 0 0 / 10%);
+  margin: 20px 0px;
+}
+
+.container {
+  width: 675px;
+  margin: 0 auto;
+}
+
+img {
+  width: 400px;
+  height: 150px;
+}
+
+body {
+  background: #F7F9FC;
+  color: #3959ca;
+  text-align: center;
+}
+
+.btn-blue {
+  background-color: #121dbb;
+  color: white;
+  padding: 15px 20px;
+  border-radius: 10px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 100px;
+}
+
+ul {
+  display: block;
+  list-style-type: disc;
+  margin: 0px;
+}
+
+.list-inline > li {
+  display: inline-block;
+  padding: 0px 20px;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.padding_big {
+ padding: 40px;
+}
+
+.padding_small {
+  padding: 20px;
+}
